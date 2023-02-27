@@ -1,0 +1,15 @@
+C:\Users\Me\Desktop\RealExam\ApocalypsePreparation\bin\Debug\net6.0\ApocalypsePreparation.exe
+C:\Users\Me\Desktop\RealExam\ApocalypsePreparation\bin\Debug\net6.0\ApocalypsePreparation.deps.json
+C:\Users\Me\Desktop\RealExam\ApocalypsePreparation\bin\Debug\net6.0\ApocalypsePreparation.runtimeconfig.json
+C:\Users\Me\Desktop\RealExam\ApocalypsePreparation\bin\Debug\net6.0\ApocalypsePreparation.dll
+C:\Users\Me\Desktop\RealExam\ApocalypsePreparation\bin\Debug\net6.0\ApocalypsePreparation.pdb
+C:\Users\Me\Desktop\RealExam\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.csproj.AssemblyReference.cache
+C:\Users\Me\Desktop\RealExam\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Me\Desktop\RealExam\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.AssemblyInfoInputs.cache
+C:\Users\Me\Desktop\RealExam\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.AssemblyInfo.cs
+C:\Users\Me\Desktop\RealExam\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.csproj.CoreCompileInputs.cache
+C:\Users\Me\Desktop\RealExam\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.dll
+C:\Users\Me\Desktop\RealExam\ApocalypsePreparation\obj\Debug\net6.0\refint\ApocalypsePreparation.dll
+C:\Users\Me\Desktop\RealExam\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.pdb
+C:\Users\Me\Desktop\RealExam\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.genruntimeconfig.cache
+C:\Users\Me\Desktop\RealExam\ApocalypsePreparation\obj\Debug\net6.0\ref\ApocalypsePreparation.dll
